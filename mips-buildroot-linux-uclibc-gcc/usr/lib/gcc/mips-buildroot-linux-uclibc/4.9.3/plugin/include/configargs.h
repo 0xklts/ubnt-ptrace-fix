@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "./configure --prefix=/home/eugene/development/routers/gdb/buildroot-2016.05/output/host/usr --sysconfdir=/home/eugene/development/routers/gdb/buildroot-2016.05/output/host/etc --enable-static --target=mips-buildroot-linux-uclibc --with-sysroot=/home/eugene/development/routers/gdb/buildroot-2016.05/output/host/usr/mips-buildroot-linux-uclibc/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-libssp --disable-multilib --with-gmp=/home/eugene/development/routers/gdb/buildroot-2016.05/output/host/usr --with-mpfr=/home/eugene/development/routers/gdb/buildroot-2016.05/output/host/usr --with-pkgversion='Buildroot 2016.05' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --disable-libsanitizer --enable-tls --disable-libmudflap --enable-threads --with-mpc=/home/eugene/development/routers/gdb/buildroot-2016.05/output/host/usr --without-isl --without-cloog --with-float=soft --disable-decimal-float --with-arch=mips32 --with-abi=32 --enable-languages=c --with-build-time-tools=/home/eugene/development/routers/gdb/buildroot-2016.05/output/host/usr/mips-buildroot-linux-uclibc/bin --enable-shared --disable-libgomp";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "abi", "32" }, { "arch", "mips32" }, { "float", "soft" }, { "llsc", "llsc" } };
